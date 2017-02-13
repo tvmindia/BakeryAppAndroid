@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.daimajia.slider-library-1.1.5_f06774864196178cc8705e2f043ed4bea4cfd285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\gson-2.8.0_dc057325a5d9b9680d21b464c456438ae2abd526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_a69735fb31405abb6c5b972e1b2bb4f918f620e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_75906514f7ad138842edf3c0346c402b5ae2fb24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="91cc357405987e3abc1f6aca257cd639428180bd">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\instant-run_9924746582ea24ebfd07ccfeeaa90379e27eff48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_a8bdc3ebcce30cc09b2a2c07db0301ee443a8378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_f01d5066ada3a68757a8c19db74dc222c9a72d4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_d7bbfb22e0f375f84943ebc692f21be5c6358323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\glide-3.7.0_56487dcc601537ec955eea625d9774ba24b2cff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_03789ebfb0678031efd0e601c63f2a8ef085df61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.wang.avi\library\1.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5035aaf60d244038bb143ffad4fbb7cba92ecdc7">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.wang.avi-library-1.0.5_ed15a578436cd7fd26d9cc733920835173b450d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.github.chrisbanes.photoview-library-1.2.4_87d831352d11585e5994ee8b6a7308427ed5dbd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\org.lucasr.twowayview\twowayview\0.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1a2a997b75e4c94dac7051557be6b95a06566291">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\org.lucasr.twowayview-twowayview-0.1.4_b424cf9ef0c6d8594558b145e187761f30d27949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.0_5d633ecf209357fd7e330e30ac77c8dcc8b4bc36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d125b199a427e5cc8d4234f7d8673c9a27ef6336">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.github.ksoichiro-android-observablescrollview-1.6.0_6b46a313d49be935c83b12d0855be6cf7c062a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_902d60c3ce41c1d89badef4deeb67fa1e7a87343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_0c56a3afe76cc106cca8e39f7fb5f2b624edeaca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_7806c9f00d05ffdd232b3ad4826f04fa7b911b10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\ch.acra\acra\4.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d03cbe00a6703cfa62ae868707af59d41aff2140">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\ch.acra-acra-4.9.0_ca6ff9984478c343dd166761e2ccab48c30d27b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\library-2.4.0_7dcc3ac4a30f386c51d9582e4504072021db0ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_291b99e342d25ebc6301caf2b83dbcc4f6f52dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_c38fcd65469521cd6e7b12b4e53cf0e95f9786ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a125db1fe0c5a442d84f846b4367da92364bc13a">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fe85a302b0d75af71076f0abba0b076abd475357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_143d8a34df712812058922e123de60841e36fe82.jar" />
+    </item>
+
+</items>
