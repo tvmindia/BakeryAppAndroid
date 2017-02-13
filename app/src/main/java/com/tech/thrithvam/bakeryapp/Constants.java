@@ -4,13 +4,7 @@ package com.tech.thrithvam.bakeryapp;
 public class Constants {
     String AppID="ADB68305-64C5-4181-830F-43BA6210B226";  //Find way to generate this
     //Define which is the boutique
-    String BoutiqueID= "7916bc48-a0e8-447b-94d4-b9c7b7b99ef1";
-            //"e482b390-cfbb-4bb7-9a7d-60adf5da8d34";//BakeryApp
-            //"e4ce4213-b1dc-443f-8576-4778f35e7383";//suv
-    // "4362cb98-dfb3-4533-ad1b-6caecc0ef5a1";//i-boutiq
-          //  "e4ce4213-b1dc-443f-8576-4778f35e7383";//suv
-        //    "470A044A-4DBA-4770-BCA7-331D2C0834AE";//tr
-    //"4362cb98-dfb3-4533-ad1b-6caecc0ef5a1";//i-boutiq
+    String BoutiqueID= "e482b390-cfbb-4bb7-9a7d-60adf5da8d34";//BakeryApp
     String BoutiqueName="London Bakery";
     int MobileNumberMax=10;
     int MobileNumberMin=10;

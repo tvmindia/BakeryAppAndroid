@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="91cc357405987e3abc1f6aca257cd639428180bd">
+        sha1="40d443289d57c583785e2b07912295796e038504">
         <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\instant-run_9924746582ea24ebfd07ccfeeaa90379e27eff48.jar" />
     </item>
     <item
@@ -205,7 +205,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="a125db1fe0c5a442d84f846b4367da92364bc13a">
+        sha1="1a3e318315220ae2533527a1cea63b5887ec99a6">
         <dex dex="E:\BoutiqueApp\BoutiqueAppVersions\BakeryApp\BakeryApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fe85a302b0d75af71076f0abba0b076abd475357.jar" />
     </item>
     <item
